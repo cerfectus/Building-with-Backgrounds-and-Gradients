@@ -33,7 +33,6 @@ nav {
 }
 
 .button {
-    background-color: #707070;
     background: linear-gradient(#707070, #5E5E5E); 
     border-radius: 0px;
     color: white;
@@ -61,10 +60,15 @@ nav {
 }
 
 input {
+    position: relative;
     border-radius: 10px;
     background-color: #707070;
     text-align: left;
     background-color: gray;
+    margin-right: 30px;
+    width: 100%;
+    right: 3px;
+
 }
 
 .image-input {
@@ -80,9 +84,9 @@ input {
 
 .dad-text {
     position: relative;
-    top: 20px;
+    top: 100px;
     font-weight: bold;
-    height: 60%;
+    height: 40%;
 }
 
 .text-image0 {
@@ -92,7 +96,7 @@ input {
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
-    top: 110px;
+    top: 30px;
 }
 
 .text-image1 {
@@ -102,7 +106,7 @@ input {
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
-    top: 30px;
+    top: -30px;
     
 }
 
@@ -113,7 +117,7 @@ input {
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
-    top: -50px;
+    top: -100px;
 
 }
 
@@ -158,6 +162,12 @@ input {
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .inline {
