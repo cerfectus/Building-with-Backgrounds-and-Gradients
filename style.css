@@ -8,13 +8,14 @@ main {
 
 .back-img {
   background: url("https://alpenglowexpeditions.com/wp-content/uploads/Screen%20shot%202014-07-08%20at%2012.09.02%20PM.png");
-  height: 40%;
+  height: 30%;
   width: 100%;
   padding: 70px;
   background-repeat: no-repeat;
   background-size: contain;
   box-sizing: border-box;
   margin-bottom: -40px;
+  padding-top:-20px;
 }
 
 nav {
