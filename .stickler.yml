@@ -1,4 +1,5 @@
 linters:
- stylelint:
-  config: 'stylelint.config.js'
-  fixer: true
+
+  stylelint:
+    config: 'stylelint.config.js'
+

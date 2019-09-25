@@ -1,7 +1,15 @@
 # Building-with-Backgrounds-and-Gradients
 microverse solo project
 
-##in this project we learn to use background images and gradients to have a better understanding of css 
 
-###i learned a lot about background containers and images, it was hard but rewarding
+## This is a solo project clone from apple.com
+
+### I used html and css
+
+### i worked with displays, positions, fonts, backgrounds, images and much more to work on this project 
+
+### its really great to know what only css and html are capable of
+
+@cerfectus
+
 

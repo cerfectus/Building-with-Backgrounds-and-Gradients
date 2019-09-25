@@ -1,0 +1,210 @@
+main {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  top: -10px;
+}
+
+.back-img {
+  background: url("https://alpenglowexpeditions.com/wp-content/uploads/Screen%20shot%202014-07-08%20at%2012.09.02%20PM.png");
+  height: 30%;
+  width: 100%;
+  padding: 70px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  box-sizing: border-box;
+  margin-bottom: -40px;
+  padding-top: -20px;
+}
+
+nav {
+  position: relative;
+  top: 100px;
+  left: 120px;
+  width: 76%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  box-sizing: border-box;
+}
+
+.button {
+  background: linear-gradient(#707070, #5e5e5e);
+  color: white;
+  padding: 0.5em;
+  text-decoration: none;
+  margin-left: -4px;
+  font-size: 12px;
+  box-sizing: border-box;
+  height: 100%;
+  width: 15%;
+  text-align: center;
+  border: solid 1px rgba(0, 0, 0, 0.5);
+}
+
+.apple-logo {
+  display: block;
+  width: 100%;
+  height: 35px;
+  background-color: transparent;
+  background-image: url("https://archive.fo/UW4oR/d800d4d3076695e798eda59b0a90e2d80a67ba02.png");
+  background-position: 50% -5px;
+  background-repeat: no-repeat;
+}
+
+input {
+  position: relative;
+  border-radius: 10px;
+  text-align: left;
+  background-color: gray;
+  margin-right: 30px;
+  width: 100%;
+  right: 3px;
+}
+
+.image-input {
+  position: absolute;
+  background: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpldj0iaHR0cDovL3d3dy53My5vcmcvMjAwMS94bWwtZXZlbnRzIj4KPGc+Cgk8cG9seWdvbiBmaWxsPSIjNjY2IiBwb2ludHM9IjkuMjA3LDYuMTI2IDcuNzkzLDcuNTQxIDExLjc5MywxMS41NDEgMTMuMjA3LDEwLjEyNiIgLz4KCTxwYXRoIGZpbGw9IiM2NjYiIGQ9Ik01LjkxNywyYzEuNjA4LDAsMi45MTcsMS4zMDgsMi45MTcsMi45MTdTNy41MjUsNy44MzMsNS45MTcsNy44MzNTMyw2LjUyNSwzLDQuOTE3UzQuMzA4LDIsNS45MTcsMgoJCSBNNS45MTcsMEMzLjIwMSwwLDEsMi4yMDEsMSw0LjkxN3MyLjIwMSw0LjkxNyw0LjkxNyw0LjkxN3M0LjkxNy0yLjIwMSw0LjkxNy00LjkxN0MxMC44MzMsMi4yMDEsOC42MzIsMCw1LjkxNywwTDUuOTE3LDB6IiAvPgo8L2c+Cjwvc3ZnPgo=");
+  width: 15px;
+  height: 20px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  top: 11px;
+  margin-left: 5px;
+}
+
+.dad-text {
+  position: relative;
+  top: 100px;
+  font-weight: bold;
+  height: 40%;
+}
+
+.text-image0 {
+  background: url("https://archive.fo/UW4oR/d7dd20c4365117e1cc1b3c2492508e9ba842e5d5.png");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  top: 30px;
+}
+
+.text-image1 {
+  background: url("https://archive.fo/UW4oR/98e684c02dfa6d288709a583e375cfbdea4b3f7d.png");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  top: -30px;
+}
+
+.text-image2 {
+  background: url("https://archive.fo/UW4oR/7c09e7d0a510ee61a62275a115208926bbd7002a.png");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  top: -100px;
+}
+
+.daddy-section {
+  height: 70%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-img1 {
+  background: url("https://archive.fo/UW4oR/4199f096e33e638ba9aeb6c6dec3a3e64794d02c.jpg");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
+.flex-img2 {
+  background: url("https://archive.fo/UW4oR/6032fe46fd16493ddda4e90ae45725962fc826b9.jpg");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
+.flex-img3 {
+  background: url("https://archive.fo/UW4oR/307a4ef1971d63d523c362cc3e49f923549fcefc.jpg");
+  height: 200px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
+.flex-img4 {
+  background: url("https://archive.fo/UW4oR/ec67ffeb084d1b9c83687205641697baa4122bee.jpg");
+  height: 240px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.inline {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div .footer {
+  flex: 0 0 50%;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  font-size: 0.8334em;
+  box-sizing: border-box;
+}
+
+div .footer2 {
+  flex: 0 0 50%;
+  display: flex;
+  align-items: center;
+  font-size: 0.8334em;
+}
+
+.list {
+  border-right: 1px solid black;
+  position: relative;
+  left: 3px;
+  right: 3px;
+}
+
+.usa {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAzxJREFUeNp8k0tsE1cUhv87c2fs8YztkDYmBBLHJGqLCKogIAGRECwIrUBI3aVSGwTtqlKrthJSQytWfSyQWCAeKySQECCSLFgYlCBeEosWkJJUhhjSVEpsEyfEiR0/Zux59YxBLPq6V3cxV+f85zv/PcOHBgfxdlMTBEGA6zp49uyPjffvJT9TlNBeRdFaP9zXBZRyqZmxxC2xMXy+c1fPE27ZcBwb2ew8WD6fRzgchmEYbHBw5Ic/pxe/7enZ3NC1KQY14IefUXCxhNyjcSQvXcu773Wc7Pnumx/9asBdWlp6JRAIKMKJExcuMqZ+cuTIfkiSCIuq2LaNcFCB5JMgShJsEnp6YxRpzXdpz77eQ8ZK0WGVShGXL48MjI4kfj56tA+MMQgiIwEHlmkj9pYPfhJ0XZfuRZA6xoavA0H1WNdHB37hjx7+3jk89OtA99YNyGQWwSnY0GuQqapVMxFMpKDChgvUjyDL4DfuIpvOHJuOtl7jt+88/lzTtGAq9RLt7c0o5MvQCLtq1KDT2XhwO0KNQdiO81qBoWXnFigLL7XnmfRhPjn5ordalegVanjwIIFoWwRpIlEUGXrFQGYoDlPlJEDJ1J5ZWEG1VIJD/pjFwl6uqYF1MmE3r26gFnIwTRO1KrUgi5C5gPL4BPK2AZsJcKgli5JdomGk6Ff9a3n/4d3u+s4OSFymJA6T3BfrM+Hxeob24c1yX1F481IqlVGZGHf53LmLM8itRFwu4t+W+7dvRtulzajQ8ip1lksd0Tik7DZF06iaUA/4v+Ul24RfovmR21tusrEniVY9Xxhvb2trVFQV3Htr9h8i1JZF5hULBSSnppYaIk3v81gslnp6Zfj4b4e+Pq3IPjheDfef8HUyb8joVAwdkYEvj3fs2J7mIGe7P+07c3t+4R2hrH+1ek0zfIEARCJhr0k8Qy3Lgk7GzafTkMPBU9v6Pz5TLBbBCoQTCoVo1oCJ5OQX1YXF71cZZovf54PAeV3Apqct6zpykvBCaY781N216axn+fLyMlg8HkckEqlX86Bnk8/XZkfu9MnTs71KxYh6l7rqn6mubxtd88Geq9EN72a8drwfbW5uDn8JMAAiz3Fhlcir8AAAAABJRU5ErkJggg==");
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat !important;
+  background-size: contain;
+}
+
+.footer3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 0.8334em;
+}
+
+.footer3a {
+  border-right: 1px solid black;
+}
